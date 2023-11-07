@@ -8,6 +8,7 @@ components:
       properties:
         namespace:
           title: Namespace
+          default: "test-namespace"
           type: string
           description: Namespace for deployment
           x-walrus-ui:
